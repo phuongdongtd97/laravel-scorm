@@ -1,12 +1,12 @@
 {
-    "name": "devianl2/laravel-scorm",
+    "name": "phuongdong/laravel-scorm",
     "description": "PEOPLEAPS scorm package",
     "type": "library",
     "license": "MIT",
     "authors": [
         {
-            "name": "Devian Leong",
-            "email": "devian@peoplelogy.com"
+            "name": "Phuong Dong",
+            "email": "phuongdongtd97@gmail.com"
         }
     ],
     "require": {
